@@ -1,0 +1,33 @@
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
+
+table{
+    width: 95vw;
+    max-width: 1000px;
+}
+
+div.inputName{
+    width: 15vw;
+    max-width: 80px;
+}
+
+div.inputDescription{
+    width: 41vw;
+    max-width: 550px;
+}
+
+input {
+    padding: 4px;
+    border-bottom: solid white;
+    border-radius: 5px;
+    /* replace this color with your accent color hex code */
+}
+s{
+    color: rgb(100, 100, 100);
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEFA5ED-526E-4847-8F3A-3368E40A0512}|TodoApi\\TodoApi.csproj|c:\\users\\programming\\documents\\todo\\todoapp\\api\\todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEFA5ED-526E-4847-8F3A-3368E40A0512}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEFA5ED-526E-4847-8F3A-3368E40A0512}|TodoApi\\TodoApi.csproj|c:\\users\\programming\\documents\\todo\\todoapp\\api\\todoapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEFA5ED-526E-4847-8F3A-3368E40A0512}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEFA5ED-526E-4847-8F3A-3368E40A0512}|TodoApi\\TodoApi.csproj|c:\\users\\programming\\documents\\todo\\todoapp\\api\\todoapi\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEFA5ED-526E-4847-8F3A-3368E40A0512}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\TodoApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\TodoApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "TodoApi\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:38:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\TodoApi\\Task.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Task.cs",
+              "ToolTip": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\TodoApi\\Task.cs",
+              "RelativeToolTip": "TodoApi\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:00:15.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\TodoApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\programming\\Documents\\todo\\todoApp\\api\\TodoApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:02:05.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
